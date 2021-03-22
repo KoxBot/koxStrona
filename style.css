@@ -1,0 +1,144 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat",sans-serif;
+}
+
+body{
+  background: url('tło.png') no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.btn{
+  width: 200px;
+  top: 0px;
+  height: 60px;
+  background: none;
+  border: 4px solid;
+  color: aqua;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 16px;
+  position: relative;
+  transition: 0.5s;
+  padding: 2em;
+  color: purple;
+  box-shadow: 0 0 5px 5px;
+}
+.btn:hover{
+  width: 200px;
+  top: 0px;
+  height: 60px;
+  background: none;
+  border: 4px solid;
+  color: purple;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 16px;
+  position: relative;
+  padding: 2em;
+  color: aqua;
+  box-shadow: 0 0 5px 5px;
+  
+}
+
+.czarny{
+  background: rgb(0, 0, 0);
+  position: relative;
+  top: 750px;
+  font: 100px;
+  right: 100%;
+  left: 0%;
+  margin: 100;
+  width: 200%;
+  height: 500px;
+  padding: 1px;
+  color: purple;
+  box-shadow: 0 0 20px 20px;
+}
+.czarny2{
+  background: rgb(0, 0, 0);
+  position: relative;
+  top: 800px;
+  font: 100px;
+  right: 100%;
+  left: 0%;
+  margin: 100;
+  width: 200%;
+  height: 800px;
+  padding: 1px;
+  color: purple;
+  box-shadow: 0 0 20px 20px;
+}
+.menu{
+  background-color: rgb(0, 0, 0);
+  position: fixed;
+  top: 0px;
+  font: 0px;
+  right: 0%;
+  left: 0%;
+  margin: 100;
+  width: 100%;
+  height: 28px;
+  background-color: black;
+  padding: 2em;
+  color: rgb(0, 0, 0);
+  box-shadow: 0 0 20px 20px;
+}
+.logo{
+  position: relative;
+  top: 100px;
+  left: 810px;
+  background-color: black;
+  padding: 2em;
+  color: purple;
+  box-shadow: 0 0 20px 20px;
+}
+.kox{
+  position: relative;
+  top: 10px;
+  left: 894px;
+  color: white;
+}
+.g{
+  position: relative;
+  top: -1000px;
+  left: 730px;
+  color: white;
+  size: 100px;
+  font-size: 100px;
+}
+.opis1{
+  position: relative;
+  top: 200px;
+  color: white;
+  left: 2px;
+  font-size: 36px;
+}
+.help{
+  position: relative;
+  top: auto;
+  color: white;
+  left: 2px;
+  font-size: 50px;
+}
+.help1{
+  position: relative;
+  top: auto;
+  color: white;
+  left: 2px;
+}
+.cmd{
+  position: relative;
+  top: auto;
+  color: white;
+  left: 800px;
+  font-size: 60px;
+}
+.discord{
+  position: relative;
+  left: 1000px;
+}
